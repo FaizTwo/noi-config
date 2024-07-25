@@ -1,7 +1,7 @@
 {
   "name": "Noi Mode",
   "version": "0.1.10",
-  "sync": "https://github.com/FaizTwo/noi-config/edit/main/noi.mode.json",
+  "sync": "https://github.com/FaizTwo/noi-config/blob/main/noi.mode.json",
   "modes": [
     {
       "id": "noi@ai",
